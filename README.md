@@ -1,6 +1,6 @@
 # productos
 
-A new Flutter project.
+(El proyecto de todo el cuatri, bn aburrido la vdd pero q le vamos a hacer)
 
 ## Getting Started
 
